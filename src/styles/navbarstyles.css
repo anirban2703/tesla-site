@@ -1,0 +1,23 @@
+
+.navbar-comp{
+   height:5rem;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.logo, .navbar-items{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.navbar-items p,.navbar-btn {
+    margin: 0 0.5rem;
+}
+
+.logo{
+   font-size: 24px;
+}
+
+
+
